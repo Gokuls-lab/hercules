@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-jose[cryptography]
+supabase-py
+python-dotenv
+pyautogen>=0.2.0
